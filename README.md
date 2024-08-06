@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm SHREERAM</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
+- 🌱 I’m currently learning **react**
 
-<h3 align="left">Connect with me:</h3>
+<p align="left">Skills 🤹‍♀️</p>
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -32,9 +36,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-    <img width="12" />
- <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
 </div>
+</div>
+
+###
+
+<p align="left">Social 🌐</p>
 
 ###
 

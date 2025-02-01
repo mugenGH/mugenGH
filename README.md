@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm SHREERAM</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
-- 🌱 I’m currently learning **react**
+- 🌱 I’m currently learning **React-Native**
 
 <p align="left">Skills 🤹‍♀️</p>
 
@@ -37,6 +37,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="40" alt="react logo" />
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
 </div>
 </div>
